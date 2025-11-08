@@ -10,6 +10,7 @@ import uvicorn
 import re
 import logging
 import time
+import os
 from io import BytesIO
 import threading, uuid, requests
 from fastapi.responses import StreamingResponse
