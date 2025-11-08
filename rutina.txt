@@ -1,0 +1,5 @@
+1.Activar entorno.
+textext\Scripts\activate
+
+2.Usará las librerías de tu entorno virtual uvicorn.
+  uvicorn main:app --reload
